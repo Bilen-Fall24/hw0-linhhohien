@@ -12,7 +12,7 @@ I will grade your assignment by opening your "hw0.ipynb" file in Jupyter (in a d
 Please enter your name by double clicking on the cell below, and after yout your name, run it with Shift + Enter.
 
 
-# Name:
+# Name: Leah Ho
 
 # Task 1
 
@@ -20,7 +20,7 @@ This assignment is a practice assignment for you to gain practice working with J
 
 
 ```python
-print("Hello World!")
+print("Hello World!") 
 ```
 
     Hello World!
@@ -32,8 +32,11 @@ Now, go ahead and write python code in the chunk below that prints your favorite
 
 
 ```python
-
+print("My favorite movie is The Hunger Game!")
 ```
+
+    My favorite movie is The Hunger Game!
+
 
 # Task 2
 
